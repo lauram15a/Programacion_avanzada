@@ -1,0 +1,1209 @@
+----------------------------------------------------------------------------
+Movimiento nº 0
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18      P#0       |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |       P#0       |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 18
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 16
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 1
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19      S#0       |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |       P#0       |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: S - Nº personas: 0 - ** Planta Actual ** - 19
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 16
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 2
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19      S#0       |        |          --Sí                                                                P1
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |            No                                                                
+ 15       |       B#0       |            No                                                                
+ 14       |        |        |          --Sí                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: S - Nº personas: 0 - ** Planta Actual ** - 19
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 15
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 3
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18      B#1       |        |            No                                                                
+ 17       |        |        |            No                P1                                              
+ 16       |        |        |            No                                                                
+ 15       |       B#0       |            No                                                                
+ 14       |        |        |          --Sí                                                                P2
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 18
+// PERSONAS DENTRO 
+P1 - Origen: 19 - Destino: 17
+-------------------------------------
+ASCENSOR: 2 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 15
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 4
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18      B#1       |        |            No                                                                
+ 17       |        |        |            No                P1                                              
+ 16       |        |        |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |       B#1       |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 18
+// PERSONAS DENTRO 
+P1 - Origen: 19 - Destino: 17
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 14
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 5
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17      B#0       |        |            No                                                                
+ 16       |        |        |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |       B#1       |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 17
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 14
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 6
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17      B#0       |        |            No                                                                
+ 16       |        |        |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |       B#1       |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 17
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 13
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 7
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16      B#0       |        |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |       B#1       |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 16
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 13
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 8
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16      B#0       |        |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |       B#1       |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 16
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 12
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 9
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16      P#0       |        |            No                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |       B#1       |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 16
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 11
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 10
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |            No                                                                
+ 15      B#0       |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |       B#1       |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 15
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 11
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 11
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |            No                                                                
+ 15      B#0       |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |       B#1       |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 15
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 10
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 12
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                
+ 15      P#0       |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |       B#1       |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 15
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 9
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 13
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                
+ 15       |        |        |            No                                                                
+ 14      B#0       |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |       B#1       |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 14
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 9
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 14
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                
+ 15       |        |        |            No                                                                
+ 14      B#0       |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |       B#1       |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 14
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 8
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 15
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13      B#0       |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |       B#1       |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 13
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 8
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 16
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13      B#0       |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |       B#1       |            No                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 13
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 7
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 17
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13      P#0       |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |       B#1       |            No                                                                
+  5       |        |        |          --Sí                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 13
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 6
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 18
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12      B#0       |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |       B#1       |            No                                                                
+  5       |        |        |          --Sí                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 12
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 6
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 19
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12      B#0       |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |       B#1       |            No                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 12
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 5
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 20
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11      B#0       |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |       B#1       |          --Sí                                                                
+  4       |        |        |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 11
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 5
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 21
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11      B#0       |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                
+  4       |       B#1       |            No                                                                
+  3       |        |        |            No                                  P2                            
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 11
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 1 - ** Planta Actual ** - 4
+// PERSONAS DENTRO 
+P2 - Origen: 14 - Destino: 3
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 22
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11      P#0       |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                
+  4       |        |        |            No                                                                
+  3       |       B#0       |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 11
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 3
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 23
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10      B#0       |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                
+  3       |       B#0       |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 10
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 3
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 24
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10      P#0       |        |            No                                                                
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                
+  3       |        |        |            No                                                                
+  2       |       B#0      P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 10
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 25
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                                                
+  9      B#0       |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                P7
+  3       |        |        |            No                                                                
+  2       |       B#0      P#0           No                                                                
+  1       |        |        |          --Sí                                                                P3
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 9
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 26
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                  P3                            
+  9      P#0       |        |            No                                                                
+  8       |        |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                P7
+  3       |        |        |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |       S#1       |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 9
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: S - Nº personas: 1 - ** Planta Actual ** - 1
+// PERSONAS DENTRO 
+P3 - Origen: 1 - Destino: 10
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 27
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                  P3                            
+  9       |        |        |            No                                                                
+  8      B#0       |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                P7
+  3       |        |        |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |       S#1       |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 8
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: S - Nº personas: 1 - ** Planta Actual ** - 1
+// PERSONAS DENTRO 
+P3 - Origen: 1 - Destino: 10
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 28
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |            No                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                  P3                            
+  9       |        |        |            No                                                                
+  8      B#0       |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                P7
+  3       |        |        |            No                                                                
+  2       |       S#1      P#0           No                                                                
+  1       |        |        |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: B - Nº personas: 0 - ** Planta Actual ** - 8
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: S - Nº personas: 1 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+P3 - Origen: 1 - Destino: 10
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 29
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5, P8
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                                                                
+ 12       |        |        |          --Sí                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                  P3                            
+  9       |        |        |            No                                                                
+  8      P#0       |        |            No                                                                
+  7       |        |        |          --Sí                                                                P4
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                P7
+  3       |       S#1       |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 8
+// PERSONAS DENTRO 
+-------------------------------------
+ASCENSOR: 2 - Estado: S - Nº personas: 1 - ** Planta Actual ** - 3
+// PERSONAS DENTRO 
+P3 - Origen: 1 - Destino: 10
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 30
+
+
+Piso    Asc.1    Asc.2    Asc.3    Botón pulsado:    Destinos Asc.1    Destinos Asc.2    Destinos Asc.3    Personas planta
+ 20       |        |        |            No                                                                
+ 19       |        |        |            No                                                                
+ 18       |        |        |            No                                                                
+ 17       |        |        |            No                                                                
+ 16       |        |        |          --Sí                                                                P5, P8
+ 15       |        |        |            No                                                                
+ 14       |        |        |            No                                                                
+ 13       |        |        |            No                P4                                              
+ 12       |        |        |          --Sí                                                                
+ 11       |        |        |            No                                                                
+ 10       |        |        |            No                                  P3                            
+  9       |        |        |            No                                                                
+  8       |        |        |            No                                                                
+  7      S#1       |        |            No                                                                
+  6       |        |        |            No                                                                
+  5       |        |        |          --Sí                                                                P6
+  4       |        |        |          --Sí                                                                P7
+  3       |       S#1       |            No                                                                
+  2       |        |       P#0           No                                                                
+  1       |        |        |            No                                                                
+  0       |        |        |            No                                                                
+
+ASCENSOR: 1 - Estado: S - Nº personas: 1 - ** Planta Actual ** - 7
+// PERSONAS DENTRO 
+P4 - Origen: 7 - Destino: 13
+-------------------------------------
+ASCENSOR: 2 - Estado: S - Nº personas: 1 - ** Planta Actual ** - 3
+// PERSONAS DENTRO 
+P3 - Origen: 1 - Destino: 10
+-------------------------------------
+ASCENSOR: 3 - Estado: P - Nº personas: 0 - ** Planta Actual ** - 2
+// PERSONAS DENTRO 
+-------------------------------------
+
+
+----------------------------------------------------------------------------
+Movimiento nº 31
+
+
+Piso    Asc.1    Asc.2    Asc.3    B
