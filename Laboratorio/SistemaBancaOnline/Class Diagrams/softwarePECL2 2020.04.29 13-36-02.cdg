@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="softwarePECL2">
+  <ClassDiagramComponents>
+    <Class name="AtencionCliente" package="softwarepecl2" visibility="public" xPosition="155.0" yPosition="521.0">
+      <Fields>
+        <Field name="lista_clientes" type="Cliente[]" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="modificarDatosCliente" returnType="void" visibility="public"/>
+        <Method name="cambiarNumeroTelefonoCliente" returnType="void" visibility="public"/>
+        <Method name="cambiarDireccionViviendaCliente" returnType="void" visibility="public"/>
+        <Method name="cambiarFotoPerfilCliente" returnType="void" visibility="public"/>
+        <Method name="aniadirCuentaBancariaCliente" returnType="void" visibility="public"/>
+        <Method name="modificarLoContratado" returnType="void" visibility="public"/>
+        <Method name="darDeBajaCliente" returnType="void" visibility="public"/>
+        <Method name="darDeAltaCliente" returnType="void" visibility="public"/>
+        <Method name="accederInfoCliente" returnType="void" visibility="public"/>
+        <Method name="informar" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Cliente" package="softwarepecl2" visibility="public" xPosition="1030.0" yPosition="512.0">
+      <Fields>
+        <Field name="numero_tarjeta" type="int" visibility="package"/>
+        <Field name="pin_tarjeta" type="int" visibility="package"/>
+        <Field name="efectivo" type="int" visibility="package"/>
+        <Field name="deposito" type="int[]" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="modificarDatos" returnType="void" visibility="public"/>
+        <Method name="realizarOperacion" returnType="void" visibility="public"/>
+        <Method name="resturarEfectivo" returnType="void" visibility="public"/>
+        <Method name="verDeposito" returnType="void" visibility="public"/>
+        <Method name="hacerTransferecia" returnType="void" visibility="public"/>
+        <Method name="pedirInformacion" returnType="void" visibility="public"/>
+        <Method name="validarTarjeta" returnType="void" visibility="public"/>
+        <Method name="aniadirCuentaBancaria" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="DirectorGeneral" package="softwarepecl2" visibility="public" xPosition="85.0" yPosition="51.0">
+      <Fields>
+        <Field name="lista_trabajadores" type="AtencionCliente[]" visibility="package"/>
+        <Field name="lista_directores_sucursales" type="DirectorSucursal[]" visibility="package"/>
+        <Field name="lista_clientes" type="Cliente[]" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="gestionarTrabajadores" returnType="void" visibility="public"/>
+        <Method name="aniadirDirectorSucursal" returnType="void" visibility="public"/>
+        <Method name="buscarDirctorSucursal" returnType="void" visibility="public">
+          <Argument type="DirectorSucursal" name="ds"/>
+        </Method>
+        <Method name="modificarInfoDirectorSucursal" returnType="void" visibility="public">
+          <Argument type="DirectorSucursal" name="ds"/>
+        </Method>
+        <Method name="eliminarDirectosSucursal" returnType="void" visibility="public">
+          <Argument type="DirectorSucursal" name="ds"/>
+        </Method>
+        <Method name="gestionarSucursal" returnType="void" visibility="public"/>
+        <Method name="crearOferta" returnType="void" visibility="public"/>
+        <Method name="accederCuentasSucursal" returnType="void" visibility="public"/>
+        <Method name="accerderTrabajadoresSucursal" returnType="void" visibility="public"/>
+        <Method name="accerderClientes" returnType="void" visibility="public"/>
+        <Method name="gestionarBolsa" returnType="void" visibility="public"/>
+        <Method name="comprarAcciones" returnType="void" visibility="public"/>
+        <Method name="venderAcciones" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="DirectorSucursal" package="softwarepecl2" visibility="public" xPosition="977.0" yPosition="51.0">
+      <Fields>
+        <Field name="lista_trabajadores" type="AtencionCliente[]" visibility="package"/>
+        <Field name="cuetas_sucursal" type="int" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="gestionarTrabajadores" returnType="void" visibility="public"/>
+        <Method name="aniadirTrabajador" returnType="void" visibility="public"/>
+        <Method name="buscarTrabajador" returnType="AtencionCliente" visibility="public"/>
+        <Method name="modificarInfoTrabajador" returnType="void" visibility="public">
+          <Argument type="AtencionCliente" name="ac"/>
+        </Method>
+        <Method name="eliminarTrabajador" returnType="void" visibility="public">
+          <Argument type="AtencionCliente" name="ac"/>
+        </Method>
+        <Method name="getCuetas_sucursal" returnType="int" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Persona" package="softwarepecl2" visibility="public" xPosition="613.0" yPosition="229.0">
+      <Fields>
+        <Field name="nombre" type="String" visibility="package"/>
+        <Field name="identificacion" type="String" visibility="package"/>
+        <Field name="contrasenia" type="String" visibility="package"/>
+        <Field name="numero_telefono" type="int" visibility="package"/>
+        <Field name="direccion_vivienda" type="String" visibility="package"/>
+        <Field name="fotoPerfil" type="File" visibility="package"/>
+        <Field name="infoPersonal" type="String" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="logear" returnType="void" visibility="public"/>
+        <Method name="modificarDatosPersonales" returnType="void" visibility="public"/>
+        <Method name="cambiarNumeroTelefono" returnType="void" visibility="public"/>
+        <Method name="cambiarDireccionVivienda" returnType="void" visibility="public"/>
+        <Method name="cambiarFotoPerfil" returnType="void" visibility="public"/>
+        <Method name="getInfoPersonal" returnType="String" visibility="public"/>
+        <Method name="setInfoPersonal" returnType="void" visibility="public">
+          <Argument type="String" name="infoPersonal"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="SistemaBancaOnline" package="softwarepecl2" visibility="public" xPosition="1520.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="softwarepecl2.DirectorSucursal" target="softwarepecl2.Persona"/>
+    <IsRelation name="is" source="softwarepecl2.DirectorGeneral" target="softwarepecl2.Persona"/>
+    <IsRelation name="is" source="softwarepecl2.AtencionCliente" target="softwarepecl2.Persona"/>
+    <IsRelation name="is" source="softwarepecl2.Cliente" target="softwarepecl2.Persona"/>
+    <UseRelation source="softwarepecl2.DirectorGeneral" target="softwarepecl2.DirectorSucursal" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <UseRelation source="softwarepecl2.DirectorSucursal" target="softwarepecl2.Cliente" sourceCardinality="1..1" targetCardinality="1..1"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

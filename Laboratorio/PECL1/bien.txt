@@ -1,0 +1,961 @@
+run:
+C  genera 106     -- Ha generado en total: 1
+106-
+Ana ha leido:  106    Suma:106
+
+A  genera 182     -- Ha generado en total: 1
+182-
+B  genera 113     -- Ha generado en total: 1
+182-113-
+Jose ha leido:  182    Suma:288
+113-
+Maria ha leido:  113    Suma:401
+
+A  genera 51     -- Ha generado en total: 2
+51-
+Ana ha leido:  51    Suma:452
+
+C  genera 133     -- Ha generado en total: 2
+133-
+B  genera 84     -- Ha generado en total: 2
+133-84-
+Ana ha leido:  133    Suma:585
+84-
+Jose ha leido:  84    Suma:669
+
+A  genera 113     -- Ha generado en total: 3
+113-
+B  genera 5     -- Ha generado en total: 3
+113-5-
+Ana ha leido:  113    Suma:782
+5-
+Maria ha leido:  5    Suma:787
+
+A  genera 72     -- Ha generado en total: 4
+72-
+B  genera 128     -- Ha generado en total: 4
+72-128-
+C  genera 1     -- Ha generado en total: 3
+72-128-1-
+Jose ha leido:  72    Suma:859
+128-1-
+Ana ha leido:  128    Suma:987
+1-
+A  genera 59     -- Ha generado en total: 5
+1-59-
+Jose ha leido:  1    Suma:988
+59-
+Maria ha leido:  59    Suma:1047
+
+B  genera 48     -- Ha generado en total: 5
+48-
+C  genera 136     -- Ha generado en total: 4
+48-136-
+A  genera 119     -- Ha generado en total: 6
+48-136-119-
+Jose ha leido:  48    Suma:1095
+136-119-
+Ana ha leido:  136    Suma:1231
+119-
+Maria ha leido:  119    Suma:1350
+
+C  genera 75     -- Ha generado en total: 5
+75-
+Jose ha leido:  75    Suma:1425
+
+B  genera 132     -- Ha generado en total: 6
+132-
+A  genera 104     -- Ha generado en total: 7
+132-104-
+C  genera 163     -- Ha generado en total: 6
+132-104-163-
+Ana ha leido:  132    Suma:1557
+104-163-
+Maria ha leido:  104    Suma:1661
+163-
+Jose ha leido:  163    Suma:1824
+
+A  genera 58     -- Ha generado en total: 8
+58-
+C  genera 43     -- Ha generado en total: 7
+58-43-
+B  genera 13     -- Ha generado en total: 7
+58-43-13-
+Ana ha leido:  58    Suma:1882
+43-13-
+Jose ha leido:  43    Suma:1925
+13-
+Maria ha leido:  13    Suma:1938
+
+A  genera 57     -- Ha generado en total: 9
+57-
+C  genera 183     -- Ha generado en total: 8
+57-183-
+Jose ha leido:  57    Suma:1995
+183-
+Maria ha leido:  183    Suma:2178
+
+C  genera 103     -- Ha generado en total: 9
+103-
+Ana ha leido:  103    Suma:2281
+
+B  genera 80     -- Ha generado en total: 8
+80-
+A  genera 37     -- Ha generado en total: 10
+80-37-
+Maria ha leido:  80    Suma:2361
+37-
+B  genera 0     -- Ha generado en total: 9
+37-0-
+Jose ha leido:  37    Suma:2398
+0-
+Ana ha leido:  0    Suma:2398
+
+A  genera 166     -- Ha generado en total: 11
+166-
+B  genera 14     -- Ha generado en total: 10
+166-14-
+Maria ha leido:  166    Suma:2564
+14-
+Ana ha leido:  14    Suma:2578
+
+C  genera 185     -- Ha generado en total: 10
+185-
+A  genera 175     -- Ha generado en total: 12
+185-175-
+B  genera 164     -- Ha generado en total: 11
+185-175-164-
+Jose ha leido:  185    Suma:2763
+175-164-
+Ana ha leido:  175    Suma:2938
+164-
+Maria ha leido:  164    Suma:3102
+
+C  genera 164     -- Ha generado en total: 11
+164-
+B  genera 14     -- Ha generado en total: 12
+164-14-
+A  genera 59     -- Ha generado en total: 13
+164-14-59-
+Jose ha leido:  164    Suma:3266
+14-59-
+Ana ha leido:  14    Suma:3280
+59-
+Maria ha leido:  59    Suma:3339
+
+C  genera 7     -- Ha generado en total: 12
+7-
+Jose ha leido:  7    Suma:3346
+
+B  genera 57     -- Ha generado en total: 13
+57-
+Ana ha leido:  57    Suma:3403
+
+A  genera 159     -- Ha generado en total: 14
+159-
+B  genera 96     -- Ha generado en total: 14
+159-96-
+C  genera 61     -- Ha generado en total: 13
+159-96-61-
+A  genera 44     -- Ha generado en total: 15
+159-96-61-44-
+Jose ha leido:  159    Suma:3562
+96-61-44-
+Maria ha leido:  96    Suma:3658
+61-44-
+C  genera 182     -- Ha generado en total: 14
+61-44-182-
+B  genera 147     -- Ha generado en total: 15
+61-44-182-147-
+Ana ha leido:  61    Suma:3719
+44-182-147-
+A  genera 165     -- Ha generado en total: 16
+44-182-147-165-
+C  genera 22     -- Ha generado en total: 15
+44-182-147-165-22-
+Maria ha leido:  44    Suma:3763
+182-147-165-22-
+Jose ha leido:  182    Suma:3945
+147-165-22-
+C  genera 143     -- Ha generado en total: 16
+147-165-22-143-
+Ana ha leido:  147    Suma:4092
+165-22-143-
+Maria ha leido:  165    Suma:4257
+22-143-
+A  genera 149     -- Ha generado en total: 17
+22-143-149-
+B  genera 7     -- Ha generado en total: 16
+22-143-149-7-
+Ana ha leido:  22    Suma:4279
+143-149-7-
+C  genera 136     -- Ha generado en total: 17
+143-149-7-136-
+Jose ha leido:  143    Suma:4422
+149-7-136-
+A  genera 193     -- Ha generado en total: 18
+149-7-136-193-
+Maria ha leido:  149    Suma:4571
+7-136-193-
+B  genera 122     -- Ha generado en total: 17
+7-136-193-122-
+Ana ha leido:  7    Suma:4578
+136-193-122-
+A  genera 27     -- Ha generado en total: 19
+136-193-122-27-
+B  genera 164     -- Ha generado en total: 18
+136-193-122-27-164-
+Jose ha leido:  136    Suma:4714
+193-122-27-164-
+C  genera 151     -- Ha generado en total: 18
+193-122-27-164-151-
+Maria ha leido:  193    Suma:4907
+122-27-164-151-
+A  genera 153     -- Ha generado en total: 20
+122-27-164-151-153-
+Ana ha leido:  122    Suma:5029
+27-164-151-153-
+B  genera 37     -- Ha generado en total: 19
+27-164-151-153-37-
+Jose ha leido:  27    Suma:5056
+164-151-153-37-
+A  genera 161     -- Ha generado en total: 21
+164-151-153-37-161-
+Maria ha leido:  164    Suma:5220
+151-153-37-161-
+Ana ha leido:  151    Suma:5371
+153-37-161-
+C  genera 1     -- Ha generado en total: 19
+153-37-161-1-
+B  genera 145     -- Ha generado en total: 20
+153-37-161-1-145-
+Jose ha leido:  153    Suma:5524
+37-161-1-145-
+A  genera 196     -- Ha generado en total: 22
+37-161-1-145-196-
+C  genera 19     -- Ha generado en total: 20
+37-161-1-145-196-19-
+Maria ha leido:  37    Suma:5561
+161-1-145-196-19-
+Ana ha leido:  161    Suma:5722
+1-145-196-19-
+B  genera 54     -- Ha generado en total: 21
+1-145-196-19-54-
+Jose ha leido:  1    Suma:5723
+145-196-19-54-
+C  genera 172     -- Ha generado en total: 21
+145-196-19-54-172-
+A  genera 129     -- Ha generado en total: 23
+145-196-19-54-172-129-
+Ana ha leido:  145    Suma:5868
+196-19-54-172-129-
+Jose ha leido:  196    Suma:6064
+19-54-172-129-
+Maria ha leido:  19    Suma:6083
+54-172-129-
+B  genera 147     -- Ha generado en total: 22
+54-172-129-147-
+C  genera 148     -- Ha generado en total: 22
+54-172-129-147-148-
+Jose ha leido:  54    Suma:6137
+172-129-147-148-
+Ana ha leido:  172    Suma:6309
+129-147-148-
+Maria ha leido:  129    Suma:6438
+147-148-
+A  genera 33     -- Ha generado en total: 24
+147-148-33-
+C  genera 170     -- Ha generado en total: 23
+147-148-33-170-
+B  genera 125     -- Ha generado en total: 23
+147-148-33-170-125-
+Ana ha leido:  147    Suma:6585
+148-33-170-125-
+Jose ha leido:  148    Suma:6733
+33-170-125-
+Maria ha leido:  33    Suma:6766
+170-125-
+A  genera 152     -- Ha generado en total: 25
+170-125-152-
+B  genera 126     -- Ha generado en total: 24
+170-125-152-126-
+Ana ha leido:  170    Suma:6936
+125-152-126-
+Jose ha leido:  125    Suma:7061
+152-126-
+C  genera 103     -- Ha generado en total: 24
+152-126-103-
+Maria ha leido:  152    Suma:7213
+126-103-
+B  genera 139     -- Ha generado en total: 25
+126-103-139-
+Jose ha leido:  126    Suma:7339
+103-139-
+Ana ha leido:  103    Suma:7442
+139-
+Maria ha leido:  139    Suma:7581
+
+A  genera 182     -- Ha generado en total: 26
+182-
+Ana ha leido:  182    Suma:7763
+
+C  genera 128     -- Ha generado en total: 25
+128-
+Maria ha leido:  128    Suma:7891
+
+B  genera 132     -- Ha generado en total: 26
+132-
+Jose ha leido:  132    Suma:8023
+
+A  genera 21     -- Ha generado en total: 27
+21-
+Maria ha leido:  21    Suma:8044
+
+C  genera 136     -- Ha generado en total: 26
+136-
+B  genera 82     -- Ha generado en total: 27
+136-82-
+C  genera 138     -- Ha generado en total: 27
+136-82-138-
+A  genera 3     -- Ha generado en total: 28
+136-82-138-3-
+Maria ha leido:  136    Suma:8180
+82-138-3-
+Ana ha leido:  82    Suma:8262
+138-3-
+Jose ha leido:  138    Suma:8400
+3-
+C  genera 159     -- Ha generado en total: 28
+3-159-
+A  genera 91     -- Ha generado en total: 29
+3-159-91-
+B  genera 104     -- Ha generado en total: 28
+3-159-91-104-
+Maria ha leido:  3    Suma:8403
+159-91-104-
+Ana ha leido:  159    Suma:8562
+91-104-
+A  genera 81     -- Ha generado en total: 30
+91-104-81-
+Jose ha leido:  91    Suma:8653
+104-81-
+C  genera 21     -- Ha generado en total: 29
+104-81-21-
+Maria ha leido:  104    Suma:8757
+81-21-
+B  genera 27     -- Ha generado en total: 29
+81-21-27-
+C  genera 43     -- Ha generado en total: 30
+81-21-27-43-
+A  genera 190     -- Ha generado en total: 31
+81-21-27-43-190-
+Ana ha leido:  81    Suma:8838
+21-27-43-190-
+Jose ha leido:  21    Suma:8859
+27-43-190-
+Maria ha leido:  27    Suma:8886
+43-190-
+C  genera 189     -- Ha generado en total: 31
+43-190-189-
+A  genera 19     -- Ha generado en total: 32
+43-190-189-19-
+B  genera 72     -- Ha generado en total: 30
+43-190-189-19-72-
+C  genera 102     -- Ha generado en total: 32
+43-190-189-19-72-102-
+A  genera 74     -- Ha generado en total: 33
+43-190-189-19-72-102-74-
+Ana ha leido:  43    Suma:8929
+190-189-19-72-102-74-
+Maria ha leido:  190    Suma:9119
+189-19-72-102-74-
+Jose ha leido:  189    Suma:9308
+19-72-102-74-
+B  genera 44     -- Ha generado en total: 31
+19-72-102-74-44-
+A  genera 9     -- Ha generado en total: 34
+19-72-102-74-44-9-
+C  genera 108     -- Ha generado en total: 33
+19-72-102-74-44-9-108-
+Maria ha leido:  19    Suma:9327
+72-102-74-44-9-108-
+Jose ha leido:  72    Suma:9399
+102-74-44-9-108-
+Ana ha leido:  102    Suma:9501
+74-44-9-108-
+A  genera 83     -- Ha generado en total: 35
+74-44-9-108-83-
+C  genera 6     -- Ha generado en total: 34
+74-44-9-108-83-6-
+B  genera 144     -- Ha generado en total: 32
+74-44-9-108-83-6-144-
+Maria ha leido:  74    Suma:9575
+44-9-108-83-6-144-
+Jose ha leido:  44    Suma:9619
+9-108-83-6-144-
+Ana ha leido:  9    Suma:9628
+108-83-6-144-
+Maria ha leido:  108    Suma:9736
+83-6-144-
+A  genera 3     -- Ha generado en total: 36
+83-6-144-3-
+B  genera 66     -- Ha generado en total: 33
+83-6-144-3-66-
+C  genera 152     -- Ha generado en total: 35
+83-6-144-3-66-152-
+Jose ha leido:  83    Suma:9819
+6-144-3-66-152-
+Ana ha leido:  6    Suma:9825
+144-3-66-152-
+Maria ha leido:  144    Suma:9969
+3-66-152-
+B  genera 184     -- Ha generado en total: 34
+3-66-152-184-
+C  genera 181     -- Ha generado en total: 36
+3-66-152-184-181-
+A  genera 29     -- Ha generado en total: 37
+3-66-152-184-181-29-
+Ana ha leido:  3    Suma:9972
+66-152-184-181-29-
+Jose ha leido:  66    Suma:10038
+152-184-181-29-
+Maria ha leido:  152    Suma:10190
+184-181-29-
+A  genera 51     -- Ha generado en total: 38
+184-181-29-51-
+B  genera 110     -- Ha generado en total: 35
+184-181-29-51-110-
+C  genera 61     -- Ha generado en total: 37
+184-181-29-51-110-61-
+Ana ha leido:  184    Suma:10374
+181-29-51-110-61-
+Jose ha leido:  181    Suma:10555
+29-51-110-61-
+B  genera 87     -- Ha generado en total: 36
+29-51-110-61-87-
+C  genera 157     -- Ha generado en total: 38
+29-51-110-61-87-157-
+Maria ha leido:  29    Suma:10584
+51-110-61-87-157-
+Ana ha leido:  51    Suma:10635
+110-61-87-157-
+A  genera 62     -- Ha generado en total: 39
+110-61-87-157-62-
+B  genera 111     -- Ha generado en total: 37
+110-61-87-157-62-111-
+Jose ha leido:  110    Suma:10745
+61-87-157-62-111-
+C  genera 27     -- Ha generado en total: 39
+61-87-157-62-111-27-
+Ana ha leido:  61    Suma:10806
+87-157-62-111-27-
+A  genera 118     -- Ha generado en total: 40
+87-157-62-111-27-118-
+B  genera 68     -- Ha generado en total: 38
+87-157-62-111-27-118-68-
+Maria ha leido:  87    Suma:10893
+157-62-111-27-118-68-
+Jose ha leido:  157    Suma:11050
+62-111-27-118-68-
+B  genera 65     -- Ha generado en total: 39
+62-111-27-118-68-65-
+Ana ha leido:  62    Suma:11112
+111-27-118-68-65-
+A  genera 68     -- Ha generado en total: 41
+111-27-118-68-65-68-
+C  genera 100     -- Ha generado en total: 40
+111-27-118-68-65-68-100-
+B  genera 117     -- Ha generado en total: 40
+111-27-118-68-65-68-100-117-
+C  genera 78     -- Ha generado en total: 41
+111-27-118-68-65-68-100-117-78-
+Ana ha leido:  111    Suma:11223
+27-118-68-65-68-100-117-78-
+Maria ha leido:  27    Suma:11250
+118-68-65-68-100-117-78-
+Jose ha leido:  118    Suma:11368
+68-65-68-100-117-78-
+B  genera 148     -- Ha generado en total: 41
+68-65-68-100-117-78-148-
+A  genera 179     -- Ha generado en total: 42
+68-65-68-100-117-78-148-179-
+B  genera 101     -- Ha generado en total: 42
+68-65-68-100-117-78-148-179-101-
+A  genera 110     -- Ha generado en total: 43
+68-65-68-100-117-78-148-179-101-110-
+Ana ha leido:  68    Suma:11436
+65-68-100-117-78-148-179-101-110-
+Maria ha leido:  65    Suma:11501
+68-100-117-78-148-179-101-110-
+C  genera 20     -- Ha generado en total: 42
+68-100-117-78-148-179-101-110-20-
+Jose ha leido:  68    Suma:11569
+100-117-78-148-179-101-110-20-
+B  genera 135     -- Ha generado en total: 43
+100-117-78-148-179-101-110-20-135-
+Maria ha leido:  100    Suma:11669
+117-78-148-179-101-110-20-135-
+A  genera 149     -- Ha generado en total: 44
+117-78-148-179-101-110-20-135-149-
+C  genera 15     -- Ha generado en total: 43
+117-78-148-179-101-110-20-135-149-15-
+Ana ha leido:  117    Suma:11786
+78-148-179-101-110-20-135-149-15-
+Jose ha leido:  78    Suma:11864
+148-179-101-110-20-135-149-15-
+B  genera 159     -- Ha generado en total: 44
+148-179-101-110-20-135-149-15-159-
+C  genera 2     -- Ha generado en total: 44
+148-179-101-110-20-135-149-15-159-2-
+Maria ha leido:  148    Suma:12012
+179-101-110-20-135-149-15-159-2-
+Jose ha leido:  179    Suma:12191
+101-110-20-135-149-15-159-2-
+A  genera 196     -- Ha generado en total: 45
+101-110-20-135-149-15-159-2-196-
+Ana ha leido:  101    Suma:12292
+110-20-135-149-15-159-2-196-
+B  genera 194     -- Ha generado en total: 45
+110-20-135-149-15-159-2-196-194-
+Maria ha leido:  110    Suma:12402
+20-135-149-15-159-2-196-194-
+C  genera 182     -- Ha generado en total: 45
+20-135-149-15-159-2-196-194-182-
+Jose ha leido:  20    Suma:12422
+135-149-15-159-2-196-194-182-
+Ana ha leido:  135    Suma:12557
+149-15-159-2-196-194-182-
+A  genera 8     -- Ha generado en total: 46
+149-15-159-2-196-194-182-8-
+B  genera 65     -- Ha generado en total: 46
+149-15-159-2-196-194-182-8-65-
+C  genera 21     -- Ha generado en total: 46
+149-15-159-2-196-194-182-8-65-21-
+Maria ha leido:  149    Suma:12706
+15-159-2-196-194-182-8-65-21-
+Jose ha leido:  15    Suma:12721
+159-2-196-194-182-8-65-21-
+Ana ha leido:  159    Suma:12880
+2-196-194-182-8-65-21-
+A  genera 40     -- Ha generado en total: 47
+2-196-194-182-8-65-21-40-
+C  genera 13     -- Ha generado en total: 47
+2-196-194-182-8-65-21-40-13-
+Maria ha leido:  2    Suma:12882
+196-194-182-8-65-21-40-13-
+Jose ha leido:  196    Suma:13078
+194-182-8-65-21-40-13-
+A  genera 137     -- Ha generado en total: 48
+194-182-8-65-21-40-13-137-
+B  genera 197     -- Ha generado en total: 47
+194-182-8-65-21-40-13-137-197-
+Maria ha leido:  194    Suma:13272
+182-8-65-21-40-13-137-197-
+Ana ha leido:  182    Suma:13454
+8-65-21-40-13-137-197-
+C  genera 2     -- Ha generado en total: 48
+8-65-21-40-13-137-197-2-
+Jose ha leido:  8    Suma:13462
+65-21-40-13-137-197-2-
+Ana ha leido:  65    Suma:13527
+21-40-13-137-197-2-
+Maria ha leido:  21    Suma:13548
+40-13-137-197-2-
+A  genera 27     -- Ha generado en total: 49
+40-13-137-197-2-27-
+C  genera 18     -- Ha generado en total: 49
+40-13-137-197-2-27-18-
+B  genera 11     -- Ha generado en total: 48
+40-13-137-197-2-27-18-11-
+Ana ha leido:  40    Suma:13588
+13-137-197-2-27-18-11-
+A  genera 177     -- Ha generado en total: 50
+13-137-197-2-27-18-11-177-
+Maria ha leido:  13    Suma:13601
+137-197-2-27-18-11-177-
+Jose ha leido:  137    Suma:13738
+197-2-27-18-11-177-
+C  genera 93     -- Ha generado en total: 50
+197-2-27-18-11-177-93-
+Maria ha leido:  197    Suma:13935
+2-27-18-11-177-93-
+Ana ha leido:  2    Suma:13937
+27-18-11-177-93-
+C  genera 47     -- Ha generado en total: 51
+27-18-11-177-93-47-
+B  genera 68     -- Ha generado en total: 49
+27-18-11-177-93-47-68-
+Jose ha leido:  27    Suma:13964
+18-11-177-93-47-68-
+B  genera 127     -- Ha generado en total: 50
+18-11-177-93-47-68-127-
+A  genera 155     -- Ha generado en total: 51
+18-11-177-93-47-68-127-155-
+Maria ha leido:  18    Suma:13982
+11-177-93-47-68-127-155-
+C  genera 108     -- Ha generado en total: 52
+11-177-93-47-68-127-155-108-
+A  genera 190     -- Ha generado en total: 52
+11-177-93-47-68-127-155-108-190-
+Ana ha leido:  11    Suma:13993
+177-93-47-68-127-155-108-190-
+A  genera 103     -- Ha generado en total: 53
+177-93-47-68-127-155-108-190-103-
+B  genera 59     -- Ha generado en total: 51
+177-93-47-68-127-155-108-190-103-59-
+Jose ha leido:  177    Suma:14170
+93-47-68-127-155-108-190-103-59-
+Maria ha leido:  93    Suma:14263
+47-68-127-155-108-190-103-59-
+C  genera 181     -- Ha generado en total: 53
+47-68-127-155-108-190-103-59-181-
+Ana ha leido:  47    Suma:14310
+68-127-155-108-190-103-59-181-
+B  genera 95     -- Ha generado en total: 52
+68-127-155-108-190-103-59-181-95-
+C  genera 136     -- Ha generado en total: 54
+68-127-155-108-190-103-59-181-95-136-
+A  genera 191     -- Ha generado en total: 54
+68-127-155-108-190-103-59-181-95-136-191-
+Jose ha leido:  68    Suma:14378
+127-155-108-190-103-59-181-95-136-191-
+Maria ha leido:  127    Suma:14505
+155-108-190-103-59-181-95-136-191-
+Ana ha leido:  155    Suma:14660
+108-190-103-59-181-95-136-191-
+B  genera 156     -- Ha generado en total: 53
+108-190-103-59-181-95-136-191-156-
+C  genera 100     -- Ha generado en total: 55
+108-190-103-59-181-95-136-191-156-100-
+Maria ha leido:  108    Suma:14768
+190-103-59-181-95-136-191-156-100-
+A  genera 50     -- Ha generado en total: 55
+190-103-59-181-95-136-191-156-100-50-
+A  genera 71     -- Ha generado en total: 56
+190-103-59-181-95-136-191-156-100-50-71-
+Jose ha leido:  190    Suma:14958
+103-59-181-95-136-191-156-100-50-71-
+Ana ha leido:  103    Suma:15061
+59-181-95-136-191-156-100-50-71-
+C  genera 147     -- Ha generado en total: 56
+59-181-95-136-191-156-100-50-71-147-
+Maria ha leido:  59    Suma:15120
+181-95-136-191-156-100-50-71-147-
+B  genera 38     -- Ha generado en total: 54
+181-95-136-191-156-100-50-71-147-38-
+Jose ha leido:  181    Suma:15301
+95-136-191-156-100-50-71-147-38-
+Ana ha leido:  95    Suma:15396
+136-191-156-100-50-71-147-38-
+A  genera 77     -- Ha generado en total: 57
+136-191-156-100-50-71-147-38-77-
+Maria ha leido:  136    Suma:15532
+191-156-100-50-71-147-38-77-
+C  genera 170     -- Ha generado en total: 57
+191-156-100-50-71-147-38-77-170-
+B  genera 102     -- Ha generado en total: 55
+191-156-100-50-71-147-38-77-170-102-
+Jose ha leido:  191    Suma:15723
+156-100-50-71-147-38-77-170-102-
+A  genera 107     -- Ha generado en total: 58
+156-100-50-71-147-38-77-170-102-107-
+Ana ha leido:  156    Suma:15879
+100-50-71-147-38-77-170-102-107-
+B  genera 0     -- Ha generado en total: 56
+100-50-71-147-38-77-170-102-107-0-
+Maria ha leido:  100    Suma:15979
+50-71-147-38-77-170-102-107-0-
+A  genera 184     -- Ha generado en total: 59
+50-71-147-38-77-170-102-107-0-184-
+Jose ha leido:  50    Suma:16029
+71-147-38-77-170-102-107-0-184-
+C  genera 191     -- Ha generado en total: 58
+71-147-38-77-170-102-107-0-184-191-
+A  genera 96     -- Ha generado en total: 60
+71-147-38-77-170-102-107-0-184-191-96-
+B  genera 154     -- Ha generado en total: 57
+71-147-38-77-170-102-107-0-184-191-96-154-
+Ana ha leido:  71    Suma:16100
+147-38-77-170-102-107-0-184-191-96-154-
+Maria ha leido:  147    Suma:16247
+38-77-170-102-107-0-184-191-96-154-
+Jose ha leido:  38    Suma:16285
+77-170-102-107-0-184-191-96-154-
+A  genera 160     -- Ha generado en total: 61
+77-170-102-107-0-184-191-96-154-160-
+C  genera 83     -- Ha generado en total: 59
+77-170-102-107-0-184-191-96-154-160-83-
+B  genera 79     -- Ha generado en total: 58
+77-170-102-107-0-184-191-96-154-160-83-79-
+Maria ha leido:  77    Suma:16362
+170-102-107-0-184-191-96-154-160-83-79-
+Ana ha leido:  170    Suma:16532
+102-107-0-184-191-96-154-160-83-79-
+C  genera 176     -- Ha generado en total: 60
+102-107-0-184-191-96-154-160-83-79-176-
+Jose ha leido:  102    Suma:16634
+107-0-184-191-96-154-160-83-79-176-
+A  genera 31     -- Ha generado en total: 62
+107-0-184-191-96-154-160-83-79-176-31-
+Ana ha leido:  107    Suma:16741
+0-184-191-96-154-160-83-79-176-31-
+Jose ha leido:  0    Suma:16741
+184-191-96-154-160-83-79-176-31-
+C  genera 55     -- Ha generado en total: 61
+184-191-96-154-160-83-79-176-31-55-
+Maria ha leido:  184    Suma:16925
+191-96-154-160-83-79-176-31-55-
+A  genera 160     -- Ha generado en total: 63
+191-96-154-160-83-79-176-31-55-160-
+B  genera 80     -- Ha generado en total: 59
+191-96-154-160-83-79-176-31-55-160-80-
+A  genera 195     -- Ha generado en total: 64
+191-96-154-160-83-79-176-31-55-160-80-195-
+Maria ha leido:  191    Suma:17116
+96-154-160-83-79-176-31-55-160-80-195-
+Ana ha leido:  96    Suma:17212
+154-160-83-79-176-31-55-160-80-195-
+B  genera 65     -- Ha generado en total: 60
+154-160-83-79-176-31-55-160-80-195-65-
+Jose ha leido:  154    Suma:17366
+160-83-79-176-31-55-160-80-195-65-
+C  genera 95     -- Ha generado en total: 62
+160-83-79-176-31-55-160-80-195-65-95-
+A  genera 149     -- Ha generado en total: 65
+160-83-79-176-31-55-160-80-195-65-95-149-
+Maria ha leido:  160    Suma:17526
+83-79-176-31-55-160-80-195-65-95-149-
+Ana ha leido:  83    Suma:17609
+79-176-31-55-160-80-195-65-95-149-
+C  genera 75     -- Ha generado en total: 63
+79-176-31-55-160-80-195-65-95-149-75-
+Jose ha leido:  79    Suma:17688
+176-31-55-160-80-195-65-95-149-75-
+A  genera 97     -- Ha generado en total: 66
+176-31-55-160-80-195-65-95-149-75-97-
+B  genera 181     -- Ha generado en total: 61
+176-31-55-160-80-195-65-95-149-75-97-181-
+Maria ha leido:  176    Suma:17864
+31-55-160-80-195-65-95-149-75-97-181-
+A  genera 180     -- Ha generado en total: 67
+31-55-160-80-195-65-95-149-75-97-181-180-
+Ana ha leido:  31    Suma:17895
+55-160-80-195-65-95-149-75-97-181-180-
+Maria ha leido:  55    Suma:17950
+160-80-195-65-95-149-75-97-181-180-
+B  genera 173     -- Ha generado en total: 62
+160-80-195-65-95-149-75-97-181-180-173-
+Jose ha leido:  160    Suma:18110
+80-195-65-95-149-75-97-181-180-173-
+C  genera 81     -- Ha generado en total: 64
+80-195-65-95-149-75-97-181-180-173-81-
+A  genera 101     -- Ha generado en total: 68
+80-195-65-95-149-75-97-181-180-173-81-101-
+B  genera 188     -- Ha generado en total: 63
+80-195-65-95-149-75-97-181-180-173-81-101-188-
+Ana ha leido:  80    Suma:18190
+195-65-95-149-75-97-181-180-173-81-101-188-
+A  genera 52     -- Ha generado en total: 69
+195-65-95-149-75-97-181-180-173-81-101-188-52-
+C  genera 8     -- Ha generado en total: 65
+195-65-95-149-75-97-181-180-173-81-101-188-52-8-
+Jose ha leido:  195    Suma:18385
+65-95-149-75-97-181-180-173-81-101-188-52-8-
+Maria ha leido:  65    Suma:18450
+95-149-75-97-181-180-173-81-101-188-52-8-
+Ana ha leido:  95    Suma:18545
+149-75-97-181-180-173-81-101-188-52-8-
+B  genera 150     -- Ha generado en total: 64
+149-75-97-181-180-173-81-101-188-52-8-150-
+A  genera 9     -- Ha generado en total: 70
+149-75-97-181-180-173-81-101-188-52-8-150-9-
+Jose ha leido:  149    Suma:18694
+75-97-181-180-173-81-101-188-52-8-150-9-
+C  genera 134     -- Ha generado en total: 66
+75-97-181-180-173-81-101-188-52-8-150-9-134-
+Maria ha leido:  75    Suma:18769
+97-181-180-173-81-101-188-52-8-150-9-134-
+Ana ha leido:  97    Suma:18866
+181-180-173-81-101-188-52-8-150-9-134-
+A  genera 47     -- Ha generado en total: 71
+181-180-173-81-101-188-52-8-150-9-134-47-
+B  genera 191     -- Ha generado en total: 65
+181-180-173-81-101-188-52-8-150-9-134-47-191-
+Jose ha leido:  181    Suma:19047
+180-173-81-101-188-52-8-150-9-134-47-191-
+C  genera 66     -- Ha generado en total: 67
+180-173-81-101-188-52-8-150-9-134-47-191-66-
+Maria ha leido:  180    Suma:19227
+173-81-101-188-52-8-150-9-134-47-191-66-
+B  genera 8     -- Ha generado en total: 66
+173-81-101-188-52-8-150-9-134-47-191-66-8-
+Ana ha leido:  173    Suma:19400
+81-101-188-52-8-150-9-134-47-191-66-8-
+C  genera 15     -- Ha generado en total: 68
+81-101-188-52-8-150-9-134-47-191-66-8-15-
+Maria ha leido:  81    Suma:19481
+101-188-52-8-150-9-134-47-191-66-8-15-
+Jose ha leido:  101    Suma:19582
+188-52-8-150-9-134-47-191-66-8-15-
+A  genera 199     -- Ha generado en total: 72
+188-52-8-150-9-134-47-191-66-8-15-199-
+B  genera 73     -- Ha generado en total: 67
+188-52-8-150-9-134-47-191-66-8-15-199-73-
+C  genera 15     -- Ha generado en total: 69
+188-52-8-150-9-134-47-191-66-8-15-199-73-15-
+Ana ha leido:  188    Suma:19770
+52-8-150-9-134-47-191-66-8-15-199-73-15-
+Maria ha leido:  52    Suma:19822
+8-150-9-134-47-191-66-8-15-199-73-15-
+Jose ha leido:  8    Suma:19830
+150-9-134-47-191-66-8-15-199-73-15-
+A  genera 190     -- Ha generado en total: 73
+150-9-134-47-191-66-8-15-199-73-15-190-
+C  genera 44     -- Ha generado en total: 70
+150-9-134-47-191-66-8-15-199-73-15-190-44-
+B  genera 159     -- Ha generado en total: 68
+150-9-134-47-191-66-8-15-199-73-15-190-44-159-
+Ana ha leido:  150    Suma:19980
+9-134-47-191-66-8-15-199-73-15-190-44-159-
+Maria ha leido:  9    Suma:19989
+134-47-191-66-8-15-199-73-15-190-44-159-
+A  genera 119     -- Ha generado en total: 74
+134-47-191-66-8-15-199-73-15-190-44-159-119-
+Jose ha leido:  134    Suma:20123
+47-191-66-8-15-199-73-15-190-44-159-119-
+C  genera 105     -- Ha generado en total: 71
+47-191-66-8-15-199-73-15-190-44-159-119-105-
+Maria ha leido:  47    Suma:20170
+191-66-8-15-199-73-15-190-44-159-119-105-
+B  genera 81     -- Ha generado en total: 69
+191-66-8-15-199-73-15-190-44-159-119-105-81-
+A  genera 165     -- Ha generado en total: 75
+191-66-8-15-199-73-15-190-44-159-119-105-81-165-
+Ana ha leido:  191    Suma:20361
+66-8-15-199-73-15-190-44-159-119-105-81-165-
+Maria ha leido:  66    Suma:20427
+8-15-199-73-15-190-44-159-119-105-81-165-
+C  genera 61     -- Ha generado en total: 72
+8-15-199-73-15-190-44-159-119-105-81-165-61-
+Jose ha leido:  8    Suma:20435
+15-199-73-15-190-44-159-119-105-81-165-61-
+A  genera 168     -- Ha generado en total: 76
+15-199-73-15-190-44-159-119-105-81-165-61-168-
+B  genera 118     -- Ha generado en total: 70
+15-199-73-15-190-44-159-119-105-81-165-61-168-118-
+Ana ha leido:  15    Suma:20450
+199-73-15-190-44-159-119-105-81-165-61-168-118-
+Jose ha leido:  199    Suma:20649
+73-15-190-44-159-119-105-81-165-61-168-118-
+Maria ha leido:  73    Suma:20722
+15-190-44-159-119-105-81-165-61-168-118-
+C  genera 100     -- Ha generado en total: 73
+15-190-44-159-119-105-81-165-61-168-118-100-
+A  genera 144     -- Ha generado en total: 77
+15-190-44-159-119-105-81-165-61-168-118-100-144-
+B  genera 84     -- Ha generado en total: 71
+15-190-44-159-119-105-81-165-61-168-118-100-144-84-
+Ana ha leido:  15    Suma:20737
+190-44-159-119-105-81-165-61-168-118-100-144-84-
+Jose ha leido:  190    Suma:20927
+44-159-119-105-81-165-61-168-118-100-144-84-
+A  genera 61     -- Ha generado en total: 78
+44-159-119-105-81-165-61-168-118-100-144-84-61-
+Maria ha leido:  44    Suma:20971
+159-119-105-81-165-61-168-118-100-144-84-61-
+B  genera 89     -- Ha generado en total: 72
+159-119-105-81-165-61-168-118-100-144-84-61-89-
+C  genera 128     -- Ha generado en total: 74
+159-119-105-81-165-61-168-118-100-144-84-61-89-128-
+Jose ha leido:  159    Suma:21130
+119-105-81-165-61-168-118-100-144-84-61-89-128-
+Maria ha leido:  119    Suma:21249
+105-81-165-61-168-118-100-144-84-61-89-128-
+Ana ha leido:  105    Suma:21354
+81-165-61-168-118-100-144-84-61-89-128-
+B  genera 102     -- Ha generado en total: 73
+81-165-61-168-118-100-144-84-61-89-128-102-
+A  genera 16     -- Ha generado en total: 79
+81-165-61-168-118-100-144-84-61-89-128-102-16-
+C  genera 76     -- Ha generado en total: 75
+81-165-61-168-118-100-144-84-61-89-128-102-16-76-
+Maria ha leido:  81    Suma:21435
+165-61-168-118-100-144-84-61-89-128-102-16-76-
+B  genera 52     -- Ha generado en total: 74
+165-61-168-118-100-144-84-61-89-128-102-16-76-52-
+Ana ha leido:  165    Suma:21600
+61-168-118-100-144-84-61-89-128-102-16-76-52-
+Jose ha leido:  61    Suma:21661
+168-118-100-144-84-61-89-128-102-16-76-52-
+A  genera 72     -- Ha generado en total: 80
+168-118-100-144-84-61-89-128-102-16-76-52-72-
+B  genera 43     -- Ha generado en total: 75
+168-118-100-144-84-61-89-128-102-16-76-52-72-43-
+Ana ha leido:  168    Suma:21829
+118-100-144-84-61-89-128-102-16-76-52-72-43-
+C  genera 99     -- Ha generado en total: 76
+118-100-144-84-61-89-128-102-16-76-52-72-43-99-
+Maria ha leido:  118    Suma:21947
+100-144-84-61-89-128-102-16-76-52-72-43-99-
+B  genera 150     -- Ha generado en total: 76
+100-144-84-61-89-128-102-16-76-52-72-43-99-150-
+Jose ha leido:  100    Suma:22047
+144-84-61-89-128-102-16-76-52-72-43-99-150-
+Ana ha leido:  144    Suma:22191
+84-61-89-128-102-16-76-52-72-43-99-150-
+C  genera 55     -- Ha generado en total: 77
+84-61-89-128-102-16-76-52-72-43-99-150-55-
+Maria ha leido:  84    Suma:22275
+61-89-128-102-16-76-52-72-43-99-150-55-
+B  genera 90     -- Ha generado en total: 77
+61-89-128-102-16-76-52-72-43-99-150-55-90-
+Jose ha leido:  61    Suma:22336
+89-128-102-16-76-52-72-43-99-150-55-90-
+Ana ha leido:  89    Suma:22425
+128-102-16-76-52-72-43-99-150-55-90-
+Maria ha leido:  128    Suma:22553
+102-16-76-52-72-43-99-150-55-90-
+C  genera 156     -- Ha generado en total: 78
+102-16-76-52-72-43-99-150-55-90-156-
+B  genera 190     -- Ha generado en total: 78
+102-16-76-52-72-43-99-150-55-90-156-190-
+C  genera 11     -- Ha generado en total: 79
+102-16-76-52-72-43-99-150-55-90-156-190-11-
+Maria ha leido:  102    Suma:22655
+16-76-52-72-43-99-150-55-90-156-190-11-
+Jose ha leido:  16    Suma:22671
+76-52-72-43-99-150-55-90-156-190-11-
+Ana ha leido:  76    Suma:22747
+52-72-43-99-150-55-90-156-190-11-
+C  genera 41     -- Ha generado en total: 80
+52-72-43-99-150-55-90-156-190-11-41-
+B  genera 42     -- Ha generado en total: 79
+52-72-43-99-150-55-90-156-190-11-41-42-
+Maria ha leido:  52    Suma:22799
+72-43-99-150-55-90-156-190-11-41-42-
+Jose ha leido:  72    Suma:22871
+43-99-150-55-90-156-190-11-41-42-
+Ana ha leido:  43    Suma:22914
+99-150-55-90-156-190-11-41-42-
+B  genera 115     -- Ha generado en total: 80
+99-150-55-90-156-190-11-41-42-115-
+Ana ha leido:  99    Suma:23013
+150-55-90-156-190-11-41-42-115-
+Jose ha leido:  150    Suma:23163
+55-90-156-190-11-41-42-115-
+Maria ha leido:  55    Suma:23218
+90-156-190-11-41-42-115-
+Ana ha leido:  90    Suma:23308
+156-190-11-41-42-115-
+Jose ha leido:  156    Suma:23464
+190-11-41-42-115-
+Maria ha leido:  190    Suma:23654
+11-41-42-115-
+Ana ha leido:  11    Suma:23665
+41-42-115-
+Ana ha leido:  41    Suma:23706
+42-115-
+Jose ha leido:  42    Suma:23748
+115-
+Maria ha leido:  115    Suma:23863
+

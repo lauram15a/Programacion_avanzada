@@ -1,0 +1,31 @@
+run:
+B  genera 147     -- Ha generado en total: 1
+147-
+C  genera 111     -- Ha generado en total: 1
+147-111-
+A  genera 92     -- Ha generado en total: 1
+147-111-92-
+C  genera 102     -- Ha generado en total: 2
+147-111-92-102-
+A  genera 9     -- Ha generado en total: 2
+147-111-92-102-9-
+B  genera 4     -- Ha generado en total: 2
+147-111-92-102-9-4-
+C  genera 48     -- Ha generado en total: 3
+147-111-92-102-9-4-48-
+A  genera 189     -- Ha generado en total: 3
+147-111-92-102-9-4-48-189-
+B  genera 73     -- Ha generado en total: 3
+147-111-92-102-9-4-48-189-73-
+C  genera 30     -- Ha generado en total: 4
+147-111-92-102-9-4-48-189-73-30-
+B  genera 153     -- Ha generado en total: 4
+147-111-92-102-9-4-48-189-73-30-153-
+A  genera 137     -- Ha generado en total: 4
+147-111-92-102-9-4-48-189-73-30-153-137-
+C  genera 44     -- Ha generado en total: 5
+147-111-92-102-9-4-48-189-73-30-153-137-44-
+B  genera 148     -- Ha generado en total: 5
+147-111-92-102-9-4-48-189-73-30-153-137-44-148-
+C  genera 189     -- Ha generado en total: 6
+147-111-92-102-9-4-48-189-73-30-153-137-44-148-189-
